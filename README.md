@@ -1,5 +1,5 @@
 # Git-GUI-ultra-simple-password-manager
-best Git-GUI password manager
+Best Git-GUI password manager , password storage and helper. No complicated configurations required. No strange foreign binaries required. Portable-way storage.
 
 ### Installation
 
